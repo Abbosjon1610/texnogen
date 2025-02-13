@@ -1,5 +1,6 @@
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
+import logging
 
 TOKEN = "7706525404:AAHNjlc-30iylGDfUSnvtFoNo_fp-08gGIQ"
 WEBAPP_URL = "https://texnogenweb.netlify.app/index.html"
